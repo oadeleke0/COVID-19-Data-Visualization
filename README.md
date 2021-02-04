@@ -13,13 +13,13 @@
 Our World In Data (OWID) dataset was acquired from: (https://github.com/owid/covid-19-data/tree/master/public/data#data-on-covid-19-coronavirus-by-our-world-in-data/).
 The OWID dataset in this repository contains data up to 2021-01-24.
 
-Public Health Infobase - Data on COVID-19 in Canada was acquired from:[Link] (https://open.canada.ca/data/en/dataset/261c32ab-4cfd-4f81-9dea-7b64065690dc).
+Public Health Infobase - Data on COVID-19 in Canada was acquired from:[Link](https://open.canada.ca/data/en/dataset/261c32ab-4cfd-4f81-9dea-7b64065690dc).
 
 ## Resource Used
 Choropleth Plot Article: [Link](https://towardsdatascience.com/visualizing-the-coronavirus-pandemic-with-choropleth-maps-7f30fccaecf5/).
 
 ## Licences
-OWID: [Creative Commons BY license] (https://creativecommons.org/licenses/by/4.0/)
+OWID: [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/)
 Public Health Infobase - Data on COVID-19 in Canada - Contains information licensed under the Open Government Licence – Canada.
 
 ## Credits
